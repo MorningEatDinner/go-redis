@@ -1,0 +1,11 @@
+[ERROR][main.go:41] 2024/03/05 16:13:16 listen tcp 0.0.0.0:6379: bind: address already in use
+[ERROR][main.go:41] 2024/03/05 16:13:31 listen tcp 0.0.0.0:6379: bind: address already in use
+[ERROR][main.go:41] 2024/03/05 16:13:44 listen tcp 0.0.0.0:6379: bind: address already in use
+[ERROR][main.go:42] 2024/03/05 16:14:31 listen tcp 0.0.0.0:6379: bind: address already in use
+[ERROR][main.go:42] 2024/03/05 16:14:32 listen tcp 0.0.0.0:6379: bind: address already in use
+[INFO][server.go:34] 2024/03/05 16:15:18 start listen...
+[INFO][server.go:60] 2024/03/05 16:16:37 accepted link.. 
+[INFO][echo.go:60] 2024/03/05 16:17:56 Connection close.
+[INFO][server.go:43] 2024/03/05 16:17:59 shutting down...
+[INFO][echo.go:74] 2024/03/05 16:17:59 handler shutting down
+[INFO][echo.go:74] 2024/03/05 16:17:59 handler shutting down
